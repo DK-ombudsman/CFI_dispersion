@@ -1,0 +1,24 @@
+
+# macOS
+.DS_Store
+
+
+# Python
+.env
+.venv/
+myenv/
+
+
+
+# Data/binaries (keep big stuff out of git)
+*.h5
+*.hdf5
+
+
+# Results
+*.csv
+*.jpg
+*.jpeg
+
+# Individuals
+disp_rl*.py
