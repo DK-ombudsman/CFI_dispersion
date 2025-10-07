@@ -22,3 +22,4 @@ myenv/
 
 # Individuals
 disp_rl*.py
+check_range.py
